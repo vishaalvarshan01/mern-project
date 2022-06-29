@@ -1,0 +1,72 @@
+[
+  {
+    "book_id": 1,
+    "author": "Marcos Pactat",
+    "book_title": "Happiest Girl in the World, The (Cea mai fericita fata din lume)",
+    "read_later": false,
+    "liked_books": true
+  },
+  {
+    "book_id": 2,
+    "author": "Sergeant Payn",
+    "book_title": "The Hire: Chosen",
+    "read_later": false,
+    "liked_books": true
+  },
+  {
+    "book_id": 3,
+    "author": "Magda Warby",
+    "book_title": "Casanova '70",
+    "read_later": true,
+    "liked_books": false
+  },
+  {
+    "book_id": 4,
+    "author": "Davina Goldberg",
+    "book_title": "Crazed Fruit (Kurutta kajitsu)",
+    "read_later": true,
+    "liked_books": false
+  },
+  {
+    "book_id": 5,
+    "author": "Jeno Bubb",
+    "book_title": "My Way Home (Így jöttem) ",
+    "read_later": false,
+    "liked_books": true
+  },
+  {
+    "book_id": 6,
+    "author": "Marysa Antat",
+    "book_title": "Sommersby",
+    "read_later": true,
+    "liked_books": false
+  },
+  {
+    "book_id": 7,
+    "author": "Consuelo Barbrick",
+    "book_title": "King of Beggars (Mo jong yuen So Hat-Yi)",
+    "read_later": true,
+    "liked_books": true
+  },
+  {
+    "book_id": 8,
+    "author": "Luisa Lamplough",
+    "book_title": "Amu",
+    "read_later": false,
+    "liked_books": false
+  },
+  {
+    "book_id": 9,
+    "author": "Nettie Grimolbie",
+    "book_title": "Dresser, The",
+    "read_later": true,
+    "liked_books": true
+  },
+  {
+    "book_id": 10,
+    "author": "Kenny O'Reagan",
+    "book_title": "Walter",
+    "read_later": true,
+    "liked_books": false
+  }
+]
